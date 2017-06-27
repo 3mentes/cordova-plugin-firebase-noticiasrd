@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "111393735265",
-    "firebase_url": "https://mercali-1273b.firebaseio.com",
-    "project_id": "mercali-1273b",
-    "storage_bucket": "mercali-1273b.appspot.com"
+    "project_number": "1069474594980",
+    "firebase_url": "https://noticiasrd-c25df.firebaseio.com",
+    "project_id": "noticiasrd-c25df",
+    "storage_bucket": "noticiasrd-c25df.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111393735265:android:c701002ebae01bc6",
+        "mobilesdk_app_id": "1:1069474594980:android:8a7d56bd16677f8e",
         "android_client_info": {
-          "package_name": "net.mercali.app"
+          "package_name": "com.noticiasrd.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "111393735265-mesprs8pi79eri58h9v6kdm88elea523.apps.googleusercontent.com",
+          "client_id": "1069474594980-4vtlnt8392n0lhnaqkcdih8k469ufb6a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAZTFjkTXQjyWi_4GlAo0kgKJHt5KlzGBk"
+          "current_key": "AIzaSyBJdhrlU00RJ-E9fVfKuXJXYg42r4Q_ew0"
         }
       ],
       "services": {
