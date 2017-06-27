@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>111393735265-eq5ucbseemu6rp5ju00nnfi0kru1hu7v.apps.googleusercontent.com</string>
+	<string>1069474594980-sji42nrv0lnpm6g6phqdh2kvfa8b4j72.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.111393735265-eq5ucbseemu6rp5ju00nnfi0kru1hu7v</string>
+	<string>com.googleusercontent.apps.1069474594980-sji42nrv0lnpm6g6phqdh2kvfa8b4j72</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDSb9ADfxTvBREXsQLbEaKT_nplW_imSH4</string>
+	<string>AIzaSyBQ3wpaGy1X4PP4kiQTR97oRMGlHksYwFY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>111393735265</string>
+	<string>1069474594980</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>net.mercali.app</string>
+	<string>com.noticiasrd.app</string>
 	<key>PROJECT_ID</key>
-	<string>mercali-1273b</string>
+	<string>noticiasrd-c25df</string>
 	<key>STORAGE_BUCKET</key>
-	<string>mercali-1273b.appspot.com</string>
+	<string>noticiasrd-c25df.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:111393735265:ios:c701002ebae01bc6</string>
+	<string>1:1069474594980:ios:8a7d56bd16677f8e</string>
 	<key>DATABASE_URL</key>
-	<string>https://mercali-1273b.firebaseio.com</string>
+	<string>https://noticiasrd-c25df.firebaseio.com</string>
 </dict>
 </plist>
